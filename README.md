@@ -28,4 +28,3 @@ This is a WebPage for 'Horiseon' marketing agency.
 This page has been updated/modified to be more accessible and cleaner. Easier for future devleopers
 ``` 
 
-
